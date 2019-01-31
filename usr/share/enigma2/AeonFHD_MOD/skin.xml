@@ -4726,6 +4726,7 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth)/2, orgpos.y()  + (o
       <convert type="ClockToText">Format:%a,%e. %B %Y | %H:%M</convert>
     </widget>
     <widget source="Title" render="Label" position="35,0" size="1300,45" font="Replacement;36" backgroundColor="black" transparent="1" foregroundColor="white" valign="center" zPosition="1" halign="left" />
+<widget name="rc" position="1587,311" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" alphatest="blend" transparent="1" font="Regular; 24" />
     <widget name="wizard" position="105,197" size="240,240" pixmap="AeonFHD_MOD/skin_default/wizard.png" zPosition="10" transparent="1" alphatest="blend" />
     <ePixmap pixmap="skin_default/buttons/key_red.png" position="105,460" size="53,45" alphatest="blend" />
     <widget name="languagetext" position="165,460" size="188,45" font="Regular;30" backgroundColor="background3" transparent="1" />
