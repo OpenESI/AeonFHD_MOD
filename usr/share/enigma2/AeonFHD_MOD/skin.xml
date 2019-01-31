@@ -957,7 +957,6 @@
     <ePixmap pixmap="AeonFHD_MOD/menu/menu_bg_bottom.png" position="35,1020" size="1850,60" zPosition="-1" alphatest="blend" />
     <ePixmap pixmap="AeonFHD_MOD/chnsel/menu_name_bg_2.png" position="955,190" size="400,53" zPosition="2" alphatest="on" />
     <ePixmap pixmap="AeonFHD_MOD/chnsel/menu_event_slider_back_2.png" position="1000,505" size="302,9" zPosition="2" />
-    <ePixmap pixmap="AeonFHD_MOD/menu/openesi_logo.png" position="1568,1011" size="332,60" alphatest="blend" />
     <widget source="global.CurrentTime" render="Label" position="1348,0" size="539,38" font="Replacement;34" valign="center" halign="right" backgroundColor="bpPodloga" transparent="1">
       <convert type="ClockToText">Format:%A,%e. %B %Y </convert>
     </widget>
