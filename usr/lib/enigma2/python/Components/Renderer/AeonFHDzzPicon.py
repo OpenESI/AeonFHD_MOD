@@ -12,7 +12,7 @@ class AeonFHDzzPicon(Renderer):
 
 	def __init__(self):
 		Renderer.__init__(self)
-		self.path = "zzpicon"
+		self.path = "picon"
 		self.nameCache = { }
 		self.pngname = ""
 
